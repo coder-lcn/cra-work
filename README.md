@@ -1,11 +1,9 @@
-# CRA WORK
+# CRA WORK for React 17
 
-## 技术栈
+## Features
 
 - TypeScript
 - styled-components
 - axios
-
-## 配置
-
 - `src` alias supported
+- 单元测试
